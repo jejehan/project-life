@@ -1,4 +1,4 @@
-## My showcase about learning programming todo
+## My goals about learning programming todo
 
 - Ecommerce
 	- [ ] ecommerce with meteorJs
