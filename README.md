@@ -16,6 +16,7 @@ So i must create my goals and i thinking about plan to achieve my goals in this 
 - Contributing to community / opensource project
 - Build somethings
 - Learn git
+- Learn one song with guitar per week :p
 
 ## ToDo January 04,2015 - January 09,2015
 - [ ] Finishing Projects
